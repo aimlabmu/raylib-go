@@ -4,7 +4,7 @@
 Golang bindings for [raylib](http://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 
 ![screenshot](https://goo.gl/q6DAoy)
-
+### Modified cgo file to work on Raspberry Pi 3 Model B with Raspbian Stretch 
 ### Requirements
 
 * [OpenAL Soft](http://kcat.strangesoft.net/openal.html)
